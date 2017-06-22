@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Suprnova",
+    "url":  "http://hush.suprnova.cc",
+    "payment_address": "t1aaKgAUsQGybvkyRJXsAmmLeoWCisnASPE",
+    "servers": [
+      {
+        "uri": "zdash.suprnova.cc",
+        "port": 4048
+      },
+      {
+        "uri": "zdash.suprnova.cc",
+        "port": 4049
+      }
+    ]
+  },
+  {
+    "name": "Hushpool.cloud",
+    "url":  "http://hushpool.cloud",
+    "payment_address": "t1aaKgAUsQGybvkyRJXsAmmLeoWCisnASPE",
+    "servers": [
+      {
+        "uri": "hushpool.cloud",
+        "port": 5555
+      },
+      {
+        "uri": "hushpool.cloud",
+        "port": 6666
+      }
+    ]
+  }
+]
